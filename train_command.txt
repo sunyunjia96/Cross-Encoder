@@ -1,0 +1,1 @@
+--num-training-epochs 200 --batch-size 128 --num-data-loaders 4 --use-tensorboard --save-path outputs --image-path images >> log.out &
